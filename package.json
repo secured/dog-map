@@ -31,5 +31,10 @@
 		"vitest": "^0.25.3",
 		"web-vitals": "^3.3.1"
 	},
-	"type": "module"
+	"type": "module",
+	"dependencies": {
+		"@vercel/postgres": "^0.4.1",
+		"dotenv": "^16.3.1",
+		"leaflet": "^1.9.4"
+	}
 }
